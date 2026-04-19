@@ -1,6 +1,6 @@
 # LoRA_and_QLoRA
 
-A repository focused on implementations and experiments with [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) and [QLoRA (Quantized LoRA)](https://arxiv.org/abs/2305.14314) techniques for efficient fine-tuning of large language models.
+A repository focused on implementations and experiments with LoRA (Low-Rank Adaptation) and QLoRA (Quantized LoRA) techniques for efficient fine-tuning of large language models.
 
 ## Overview
 
@@ -41,11 +41,6 @@ LoRA_and_QLoRA/
 ├── requirements.txt # Python dependencies
 └── README.md
 ```
-
-## References
-
-- [LoRA: Low-Rank Adaptation of Large Language Models (Hu et al., 2021)](https://arxiv.org/abs/2106.09685)
-- [QLoRA: Efficient Finetuning of Quantized LLMs (Dettmers et al., 2023)](https://arxiv.org/abs/2305.14314)
 
 ## License
 
