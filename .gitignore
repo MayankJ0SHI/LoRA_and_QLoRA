@@ -1,2 +1,4 @@
 /LORA_FINE_TUNING/myenv
 /LORA_FINE_TUNING/models/adapters/lora_adapter
+/QLORA_FINE_TUNING/models/adapters/qlora_adapter
+/QLORA_FINE_TUNING/myenv
