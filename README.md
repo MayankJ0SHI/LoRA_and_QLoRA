@@ -35,10 +35,8 @@ This repository contains Python code related to:
 
 ```
 LoRA_and_QLoRA/
-├── lora/            # LoRA implementation code
-├── qlora/           # QLoRA implementation code
-├── examples/        # Example scripts and notebooks
-├── requirements.txt # Python dependencies
+├── LORA_FINE_TUNING/            # LoRA implementation code
+├── QLORA_FINE_TUNING/           # QLoRA implementation code
 └── README.md
 ```
 
