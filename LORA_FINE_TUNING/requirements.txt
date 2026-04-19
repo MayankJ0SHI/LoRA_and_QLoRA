@@ -1,0 +1,12 @@
+torch==2.2.2
+transformers==4.40.2
+accelerate==0.29.3
+peft==0.10.0
+datasets==2.19.0
+sentencepiece==0.1.99
+protobuf==4.25.3
+einops==0.7.0
+tqdm==4.66.2
+numpy==1.26.4
+pandas==2.2.2
+jsonlines==4.0.0
